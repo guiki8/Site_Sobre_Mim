@@ -1,0 +1,91 @@
+header{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+    font-style: bold;
+    color: rgb(222, 221, 214);
+    height: 100px;
+    width: 100%;
+    background-color: rgb(86, 86, 86);
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(222, 221, 214);
+}
+.section1{
+    height: 400px;
+    width: 50%;
+    color: rgb(222, 221, 214);
+    background-color: rgb(86, 86, 86);
+    border-radius: 15px;
+    float: left;
+    margin-top: 10px;
+}
+.nome{
+    height: 30px;
+    width: 95%;
+    color: rgb(222, 221, 214);
+    border-radius: 15px;
+    text-align: center;
+    display: block;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.texto{
+    height: 280px;
+    width: 95%;
+    color: rgb(86, 86, 86);
+    background-color: rgb(222, 221, 214);
+    border-radius: 15px;
+    display: block;
+    margin-left: 10px;
+}
+.texto2{
+    margin-top: 120px;
+}
+.section2{
+    height: 500px;
+    width: 20%;
+    color: rgb(222, 221, 214);
+    background-color: rgb(86, 86, 86);
+    border-radius: 15px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 3%;
+    justify-content: center;
+}
+aside{
+    height: 400px;
+    width: 30%;
+    color: rgb(222, 221, 214);
+    background-color: rgb(86, 86, 86);
+    border-radius: 15px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+}
+.foto{
+    height: 80%;
+    width: auto;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+.foto2{
+    width: 80%;
+    height: auto;
+    margin-top: 80px;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-top: 80px;
+}
+h3{
+    font-size: 27px;
+}
+.kvra{
+    height: 90px;
+    width: auto;
+    float: left;
+    margin: 5px 30px;
+}
